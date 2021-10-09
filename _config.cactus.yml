@@ -15,11 +15,12 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  projects: /projects/
+  contact: /contact/
+  projects: /projects
   # writing: /writing/
   currently: /currently/
   puzzling: /puzzling/
-  pics: /pics/
+  gallery: /gallery/
   
   
 
@@ -30,9 +31,9 @@ nav:
 social_links:
   linkedin: https://linkedin.com/in/chelseagille
   github: https://github.com/chelsea-codes
+  dev: https://dev.to/chelsea_codes
   # twitter: /
   # facebook: /
-  # forward: https://app.pluralsight.com/profile/csgille
   #mail: mailto:name@email.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -46,7 +47,7 @@ tags_overview: false
 #   - sort_updated: sort posts by last modification date instead of creation date.
 posts_overview:
   show_all_posts: false
-  post_count: 5
+  post_count: 0
   sort_updated: false
 
 # Customize the archive view.
@@ -87,7 +88,7 @@ logo:
   height: 150
   url: /images/icons/dukeandchelsea.jpg
   gravatar: false
-  grayout: true
+  grayout: false
 
 # Customize the favicons.
 # Cactus supports a limited set of the three most important icons:
@@ -116,7 +117,7 @@ favicon:
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
-colorscheme: dark
+colorscheme: white
 
 # Maximal width of the page in rem units.
 page_width: 48
@@ -152,8 +153,8 @@ disqus:
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
-  enabled: true
-  id: G-WN1K644EL6
+  enabled: false
+  id: 2e6da3c3
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
 baidu_analytics:
