@@ -10,7 +10,7 @@ While working at the University of Wisconsin for the past four years, I’ve had
 
 I feel most inspired while building solutions that give any human tools to create a fulfilling and successful life - *however they define it*. 
 
-As a team member, I strive to be an encouraging presence and help create an environment where everyone, regardless of title, can share their ideas without judgement.
+As a team member, I strive to be an encouraging presence and help create an environment where everyone, regardless of title or experience, can share their ideas without judgement.
 
 ## Beyond Developer
 
