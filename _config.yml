@@ -5,7 +5,7 @@
 # Site
 title: chelsea sunrise
 subtitle: '' # todo
-description: '' #todo
+description: 'blah blah blah' #todo
 keywords: #todo
 author: Chelsea Gille
 language: en
@@ -111,3 +111,4 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
