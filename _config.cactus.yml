@@ -29,9 +29,26 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  linkedin: https://linkedin.com/in/chelseagille
-  github: https://github.com/chelsea-codes
-  dev: https://dev.to/chelsea_codes
+  - name: LinkedIn
+    icon: linkedin
+    brand: true
+    url: https://linkedin.com/in/chelseagille
+  - name: Github 
+    icon: github
+    brand: true
+    url: https://github.com/chelsea-codes
+  - name: DEV.to 
+    icon: dev
+    brand: true
+    url: https://dev.to/chelsea_codes
+  - name: Pluralsight
+    icon: forward
+    brand: false
+    url: https://app.pluralsight.com/profile/csgille
+  - name: Skillshare
+    icon: palette
+    brand: false
+    url: https://www.skillshare.com/profile/Chelsea/5986306
   # twitter: /
   # facebook: /
   #mail: mailto:name@email.com
