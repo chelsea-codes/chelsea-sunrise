@@ -27,7 +27,7 @@ My primary goal for this site is to show you a glimpse of who I am beyond the cu
 
 *   [Hexo](https://hexo.io/) with the [Cactus](https://github.com/probberechts/hexo-theme-cactus) theme
 
-*   [Cloudflare CDN](https://www.cloudflare.com/cdn/) 
+*   Static hosting using Cloudflare [Worker](https://www.workers.cloudflare.com) and [CDN](https://www.cloudflare.com/cdn/) 
 
 # Ideas In Progress
 
