@@ -14,7 +14,7 @@ As a team member, I strive to be an encouraging presence and help create an envi
 
 ## Beyond Developer
 
-I’m a to-do list fanatic, a reader, a [puzzler](./puzzling), and my lifelong hobby is exploring new hobbies. I also find joy in observing the uniqueness of [nature](./gallery), petting my dog Duke, and watching Twitch streams of nostalgic video games with my wonderful husband Adam.
+I’m a to-do list fanatic, a reader, a [puzzler](./puzzling), and my lifelong hobby is exploring new hobbies. I also find joy in observing the weirdness of nature, petting my dog Duke, and watching Twitch streams of nostalgic video games with my wonderful husband Adam.
 
 Checkout some things I’m [currently up to](./currently) and feel free to [contact me](./contact) - even if it’s just to say hello!
 
