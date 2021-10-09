@@ -19,3 +19,6 @@ I’m a to-do list fanatic, a reader, a [puzzler](./puzzling), and my lifelong h
 Checkout some things I’m [currently up to](./currently), what this [website is made of](./projects), and feel free to [contact me](./contact) - even if it’s just to say hello!
 
 See ya around! :)
+
+![chelsea walking duke on snowy trail](../images/home/walkingdukeinsnow.jpg)
+*Walking with Duke on a chilly Wisconsin trail*
