@@ -1,5 +1,5 @@
 ---
-title: currently
+title: Chelsea Sunrise - Currently
 layout: page
 ---
 
