@@ -14,6 +14,6 @@ entry-point = "workers-site"
 
 [env.prod]
 name = "chelsea-sunrise-prod"
-route = "chelsea-sunrise.com/*"
+route = "*chelsea-sunrise.com/"
 zone_id = "799eab8c4d15b1acfb2311e137037db0"
 
