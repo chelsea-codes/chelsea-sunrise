@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server --config _config.cactus.yml,_config.yml,_config.local.yml",
-    "server-prod": "hexo server --config _config.cactus.yml,_config.yml,_config.prod.yml"
+    "build-dev": "hexo clean && hexo generate --config _config.cactus.yml,_config.yml,_config.local.yml",
+    "build-prod": "hexo clean && hexo generate --config _config.cactus.yml,_config.yml,_config.prod.yml",
+    "server-dev": "hexo server --config _config.cactus.yml,_config.yml,_config.local.yml",
+    "server-prod": "hexo server --config _config.cactus.yml,_config.yml,_config.prod.yml",
+    "deploy-dev": "wrangler publish",
+    "deploy-prod": "wrangler publish --env prod"
   },
   "hexo": {
     "version": "5.4.0"
