@@ -4,7 +4,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
-    <script src="https://www.google.com/recaptcha/api.js?render=6LeXG74cAAAAAKYTw8woKJg-bgVM6je2DTNO0NZ2"></script>
+    <% if (is_current('/contact/')) { %>
+      <script src="https://www.google.com/recaptcha/api.js?render=6LeXG74cAAAAAKYTw8woKJg-bgVM6je2DTNO0NZ2"></script>
+    <% } %>
     <%- open_graph({
         image:          thumbnail(page),
         fb_app_id:      theme.open_graph.fb_app_id,
