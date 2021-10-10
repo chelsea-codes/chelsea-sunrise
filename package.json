@@ -2,12 +2,14 @@
   "name": "chelsea-sunrise",
   "version": "1.0.0",
   "private": true,
+  "theme": "cactus",
   "scripts": {
+    "install-theme": "cd ./themes/${npm_package_theme} && npm install",
     "clean": "hexo clean",
-    "build-dev": "hexo clean && hexo generate --config _config.cactus.yml,_config.yml,_config.local.yml",
-    "build-prod": "hexo clean && hexo generate --config _config.cactus.yml,_config.yml,_config.prod.yml",
-    "server-dev": "hexo server --config _config.cactus.yml,_config.yml,_config.local.yml",
-    "server-prod": "hexo server --config _config.cactus.yml,_config.yml,_config.prod.yml",
+    "build-dev": "hexo clean && hexo generate --config _config.${npm_package_theme}.yml,_config.yml,_config.local.yml",
+    "build-prod": "hexo clean && hexo generate --config _config.${npm_package_theme}.yml,_config.yml,_config.prod.yml",
+    "server-dev": "hexo server --config _config.${npm_package_theme}.yml,_config.yml,_config.local.yml",
+    "server-prod": "hexo server --config _config.${npm_package_theme}.yml,_config.yml,_config.prod.yml",
     "deploy-dev": "wrangler publish",
     "deploy-prod": "wrangler publish --env prod"
   },
