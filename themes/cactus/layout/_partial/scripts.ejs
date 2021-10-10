@@ -124,3 +124,12 @@
         }());
     </script>
 <% } %>
+<!--reCAPTCHA v3-->
+<script type="text/javascript">
+  grecaptcha.ready(function() {
+      grecaptcha.execute('6LeXG74cAAAAAKYTw8woKJg-bgVM6je2DTNO0NZ2', {action: 'homepage'})
+      .then(function(token) {
+        document.getElementById('captchaResponse').value = token;
+      });
+    });
+</script>

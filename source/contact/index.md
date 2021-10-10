@@ -1,10 +1,12 @@
 ---
+title: Chelsea Sunrise - Contact
 layout: page
 ---
 
 # I'd love to hear from you!
 Contact me here or over on [LinkedIn](https://www.linkedin.com/in/chelseagille)! :)
 <form action="https://getform.io/f/6487afa3-701c-444b-867b-5a532a79bfef" method="POST" name="contact" id="contact">
+    <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
     Name <br>
     <input type="text" name="name"><br>
     Email <br>
