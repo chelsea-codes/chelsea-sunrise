@@ -15,8 +15,8 @@ layout: page
 ![cozy reading nook](../images/currently/readingnook.jpg)
 *Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)*
 
-- **[Meditations by Marcus Aurelius](https://www.goodreads.com/book/show/30659.Meditations)**
-> Written in Greek by the only Roman emperor who was also a philosopher, without any intention of publication, the Meditations of Marcus Aurelius offer a remarkable series of challenging spiritual reflections and exercises developed as the emperor struggled to understand himself and make sense of the universe.
+- **[Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/book/show/41795733-range) by David Epstein**
+> Plenty of experts argue that anyone who wants to develop a skill, play an instrument, or lead their field should start early, focus intensely, and rack up as many hours of deliberate practice as possible. If you dabble or delay, you'll never catch up to the people who got a head start. But a closer look at research on the world's top performers, from professional athletes to Nobel laureates, shows that early specialization is the exception, not the rule.
 
 ## Listening to
 ![pink headphones with blue and pink background](../images/currently/pinkblueheadphones.jpg)
