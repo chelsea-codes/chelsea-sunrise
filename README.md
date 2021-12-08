@@ -40,7 +40,12 @@ Clean hexo project and generate static files:
 npm run build-prod
 ```
 
-Deploy to Cloudflare worker
+Login to Wrangler (Cloudflare workers):
+```
+$(npm bin)/wrangler login
+```
+
+Deploy to Cloudflare worker:
 ```
 npm run deploy-prod
 ```
