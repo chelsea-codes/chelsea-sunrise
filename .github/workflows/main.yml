@@ -26,8 +26,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm ci && npm run install-theme
-      if: github.event_name == 'pull_request'
+    - run: npm install && npm run install-theme
     - run: npm run build-dev
       if: github.event_name == 'pull_request'
     - run: npm run build-prod
