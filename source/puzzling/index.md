@@ -7,12 +7,14 @@ layout: page
 
 **I love jigsaw puzzles!** They give my mind a break and a workout at the same time... kinda like brain yoga.
 
-I don't glue them and hang them up because I like the option of doing them more than once and it's fun to break them apart. 
+I don't glue them and hang them up because I like the option of doing them more than once and it's theraputic to break them apart. You know, that feeling of 'letting go'. 
 
-So here's a museum of the puzzles I've completed over the past year or so!
+So here's a museum of some of the puzzles I've completed in the past! (P.S. I've always got more to add.)
 
 ## Puzzler's Tip:
-Ask your local library if they loan jigsaw puzzles, some of them do! Don't expect them to have all the pieces, though. 🙃
+Ask your local library if they loan jigsaw puzzles, some of them do! Don't expect them to have all the pieces, though. 🙃 
+
+I like to put them together and send them back with a sticky note of how many pieces are missing. I've found some people really don't like missing pieces, but it doesn't bother me at all! 
 
 ---
 
