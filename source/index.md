@@ -5,17 +5,28 @@ layout: page
 
 # Hi Friend!
 
-I’m **Chelsea Gille**, a developer-turned-support engineer who’s interested in doing and learning a little bit of everything!
+I’m **Chelsea Gille**. You could call this my profile site, but I hope to grow it into a [digital garden](https://refinedmind.co/digital-garden) of sorts. :)
 
-While working at the University of Wisconsin for the past four years, I’ve had the opportunity to contribute to nearly every aspect of software development. I also spent a lot of time providing technical support for our applications which I found to be very engaging and rewarding because I enjoy solving problems, learning new technology, and helping others. That is why I decided to pursue a new path as a support engineer!
+If you want to know about my education, work history, and the technical skills I've used, please see my [LinkedIn](https://linkedin.com/in/chelseagille) profile. 
 
-As a team member, I strive to be an encouraging presence and help create an environment where everyone, regardless of title or experience, can share their ideas without judgement.
+Also, see what this [website is made of](./projects) if you're interested!
+
+## Career Goal
+I'm grateful that my professional experiences have allowed me to engage in nearly every aspect of creating, maintaining, delivering, and supporting software, so now I'm focusing on opportunities to build specialization and expertise.
+
+I'm currently exploring roles in full-stack or backend development, devops, and support engineering!
 
 ## Beyond Career
 
-I’m a to-do list fanatic, a reader, a [puzzler](./puzzling), and my lifelong hobby is exploring new hobbies! I also find joy in observing the weirdness of nature, petting my dog Duke, and watching Twitch streams of nostalgic video games with my wonderful husband Adam.
+I’m a wife and a new mom that values family, authenticity, optimism, curiosity, kindness, and resilience.
 
-Checkout some things I’m [currently up to](./currently), what this [website is made of](./projects), and feel free to [contact me](./contact) - even if it’s just to say hello!
+I find joy in making lists, reading, doing [jigsaw puzzles](./puzzling), and trying new hobbies.
+
+I'm definitely a dog person, but I'll still think your cat is adorable! My dog's name is Duke.
+
+One of my favorite game series is *The Sims* (*The Sims 2* being my favorite installment).
+
+Feel free to [contact me](./contact) - even if it’s just to say hello!
 
 See ya around! :)
 

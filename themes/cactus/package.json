@@ -33,7 +33,7 @@
     "js-yaml": "*",
     "jshint": "^2.13.6",
     "jshint-stylish": "*",
-    "stylint": "*",
+    "stylint": "^1.5.9",
     "stylint-stylish": "*",
     "stylus-supremacy": "^2.12.2"
   },

@@ -1,20 +1,19 @@
 {
   "name": "chelsea-sunrise",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "private": true,
-  "theme": "cactus",
   "scripts": {
-    "install-theme": "cd ./themes/${npm_package_theme} && npm install",
+    "install-theme": "cd ./themes/cactus && npm install",
     "clean": "hexo clean",
-    "build-dev": "hexo clean && hexo generate --config _config.${npm_package_theme}.yml,_config.yml,_config.local.yml",
-    "build-prod": "hexo clean && hexo generate --config _config.${npm_package_theme}.yml,_config.yml,_config.prod.yml",
-    "server-dev": "hexo server --config _config.${npm_package_theme}.yml,_config.yml,_config.local.yml",
-    "server-prod": "hexo server --config _config.${npm_package_theme}.yml,_config.yml,_config.prod.yml",
+    "build-dev": "hexo clean && hexo generate --config _config.cactus.yml,_config.yml,_config.local.yml",
+    "build-prod": "hexo clean && hexo generate --config _config.cactus.yml,_config.yml,_config.prod.yml",
+    "server-dev": "hexo server --config _config.cactus.yml,_config.yml,_config.local.yml",
+    "server-prod": "hexo server --config _config.cactus.yml,_config.yml,_config.prod.yml",
     "deploy-dev": "wrangler publish",
     "deploy-prod": "wrangler publish --env prod"
   },
   "hexo": {
-    "version": "5.4.0"
+    "version": "6.3.0"
   },
   "dependencies": {
     "hexo": "^6.3.0",
@@ -25,7 +24,8 @@
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.1.1",
     "hexo-renderer-stylus": "^3.0.0",
-    "hexo-server": "^3.0.0"
+    "hexo-server": "^3.0.0",
+    "node": "^18.14.0"
   },
   "devDependencies": {
     "@cloudflare/wrangler": "^1.21.0"

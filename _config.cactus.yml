@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: 
+projects_url: /projects/
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -16,11 +16,9 @@ direction: ltr
 nav:
   home: /
   contact: /contact/
-  projects: /projects
-  # writing: /writing/
-  currently: /currently/
+  garden: /garden/
+  projects: /projects/
   puzzling: /puzzling/
-  # gallery: /gallery/
   
   
 
@@ -29,26 +27,18 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  - name: LinkedIn
+  - name: linkedin
     icon: linkedin
     brand: true
     url: https://linkedin.com/in/chelseagille
-  - name: Github 
+  - name: github 
     icon: github
     brand: true
     url: https://github.com/chelsea-codes
-  - name: DEV.to 
-    icon: dev
-    brand: true
-    url: https://dev.to/chelsea_codes
-  - name: Pluralsight
+  - name: pluralsight
     icon: forward
     brand: false
     url: https://app.pluralsight.com/profile/csgille
-  - name: Skillshare
-    icon: palette
-    brand: false
-    url: https://www.skillshare.com/profile/Chelsea/5986306
   # twitter: /
   # facebook: /
   #mail: mailto:name@email.com

@@ -1,6 +1,6 @@
-# [chelsea-sunrise](https://www.chelsea-sunrise.com)
+# [chelsea-sunrise](https://hello.chels.workers.dev/)
 
-My primary goal for this site is to show you a glimpse of who I am beyond the customary one-page resume. I also want it to be simple to maintain, update with new content, and deploy.
+Officially my profile site, but I hope to grow it into a [digital garden](https://refinedmind.co/digital-garden) of sorts. I also want it to be simple to maintain, update with new content, and deploy.
 
 **Stack:**
 
@@ -8,7 +8,7 @@ My primary goal for this site is to show you a glimpse of who I am beyond the cu
 
 *   [Hexo](https://hexo.io/) with the [Cactus](https://github.com/probberechts/hexo-theme-cactus) theme
 
-*   Static hosting using [Cloudflare Workers](https://www.workers.cloudflare.com)
+*   Static hosting using [Cloudflare Workers](https://workers.cloudflare.com)
 
 ## Configuration
 Update entries in root `_config.yml` and `_config.cactus.yml` files.
@@ -50,4 +50,4 @@ Deploy to Cloudflare worker:
 npm run deploy-prod
 ```
 
-View the **production** app at https://www.chelsea-sunrise.com or https://chelsea-sunrise-prod.chelseasunrise.workers.dev.
+View the **production** app at https://hello.chels.workers.dev/.

@@ -4,17 +4,17 @@
 
 # Site
 title: chelsea sunrise
-subtitle: '' # todo
-description: 'blah blah blah' #todo
-keywords: #todo
+subtitle: ''
+description: ''
+keywords:
 author: Chelsea Gille
 language: en
-timezone: ''
+timezone: 
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://chelsea-sunrise.com/
-permalink: /writing/:post_title/
+url: https://hello.chels.workers.dev
+permalink: /:slug/
 permalink_defaults:
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
@@ -24,7 +24,7 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: writing
+archive_dir: garden
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -61,7 +61,7 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: '/writing'
+  path: '/garden'
   per_page: 0
   order_by: -date
 
@@ -86,8 +86,8 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+date_format: MMM Do YYYY
+time_format: h:mma
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
 
@@ -98,9 +98,9 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
-ignore:
+# include: []
+# exclude: []
+# ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
