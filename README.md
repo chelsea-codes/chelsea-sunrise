@@ -42,7 +42,7 @@ npm run build-prod
 
 Login to Wrangler (Cloudflare workers):
 ```
-$(npm bin)/wrangler login
+npm exec wrangler login
 ```
 
 Deploy to Cloudflare worker:
