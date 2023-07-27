@@ -1,19 +1,15 @@
 name = "chelsea-sunrise"
-type = "webpack"
 account_id = "40435c60b74ed167fa51f900ad0e30ae"
+main = "./workers-site/index.js"
 
 workers_dev = true
 
-usage_model = ""
+usage_model = "bundled"
 compatibility_flags = []
 compatibility_date = "2021-10-09"
 
 [site]
 bucket = "./public"
-entry-point = "workers-site"
 
 [env.prod]
-name = "chelsea-sunrise-prod"
-route = "*chelsea-sunrise.com/*"
-zone_id = "799eab8c4d15b1acfb2311e137037db0"
-
+name = "hello"

@@ -9,8 +9,8 @@
     "build-prod": "hexo clean && hexo generate --config _config.cactus.yml,_config.yml,_config.prod.yml",
     "server-dev": "hexo server --config _config.cactus.yml,_config.yml,_config.local.yml",
     "server-prod": "hexo server --config _config.cactus.yml,_config.yml,_config.prod.yml",
-    "deploy-dev": "wrangler publish",
-    "deploy-prod": "wrangler publish --env prod"
+    "deploy-dev": "wrangler deploy",
+    "deploy-prod": "wrangler deploy --env prod"
   },
   "hexo": {
     "version": "6.3.0"
@@ -25,9 +25,7 @@
     "hexo-renderer-marked": "^6.1.1",
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
-    "node": "^18.14.0"
-  },
-  "devDependencies": {
-    "@cloudflare/wrangler": "^1.21.0"
+    "node": "^18.14.0",
+    "wrangler": "^3.4.0"
   }
 }
