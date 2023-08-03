@@ -14,7 +14,7 @@ Also, see what this [website is made of](./projects) if you're interested!
 ## Career Goal
 I'm grateful that my professional experiences have allowed me to engage in nearly every aspect of creating, maintaining, delivering, and supporting software, so now I'm focusing on opportunities to build specialization and expertise.
 
-I'm currently exploring roles in full-stack or backend development, devops, and support engineering!
+I'm currently exploring roles in devops and technical support engineering!
 
 ## Beyond Career
 
